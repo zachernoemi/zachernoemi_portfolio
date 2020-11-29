@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Zacher Noémi Portfólió </title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/tajfutasrol.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+<body>
+		
+	<div class="teto">
+			<span class="cim"> Zacher Noémi</span>
+			<div class="egesz">
+				<div class="doboz1">
+				<img class="kep1" src="kepek/boja4.jpg" alt="tájfutó bója">
+				</div>
+				<div class="doboz2">
+				<img class="kep1" src="kepek/24oras3.jpg" alt="Zacher Noémi tájfutás közben">	
+				</div>
+				<div class="doboz3">
+					<div class="box1"><img class="kep2 terkepek"src="kepek/map4.jpg" alt="belvárosi tájfutó térkép részlet"></div>
+					<div class="box2"><img class="kep2 terkepek" src="kepek/map1.jpg" alt="erdei tájfutó térkép részlet"></div>
+					<div class="box3"><img class="kep2 terkepek" src="kepek/map3.jpg" alt="sziklás tájfutó térkép részlet"></div>
+					<div class="box3"><img class="kep2 terkepek" src="kepek/map5.jpg" alt="mocsaras tájfutó térkép részlet"></div>
+				</div>
+			</div>
+
+		<div id="ikon">
+			<ul class="menu">
+		  <li><a href="zachernoemi_tajfutasrol.php"><i class="fa fa-compass"></i>
+			 <span class="leiras">A tájfutásról...</span></a></li>
+		  <li><a href="zachernoemi_feladataim.php"><i class="fa fa-tasks"></i>
+		  	<span class="leiras">Feladataim</span></a></li>
+		  <li><a href="zachernoemi_eredmenyeim.php"><i class="fas fa-medal"></i>
+		  	<span class="leiras">Eredményeim</span></a></li>
+		  <li><a href="zachernoemi_celok.php"></i> <i class="fa fa-globe"></i>
+		  	<span class="leiras">Céljaim</span></a></li>
+		  <li><a href="zachernoemi_oldal.php"> <i class="fas fa-drafting-compass"></i>
+		  	<span class="leiras"> Oldal létrejötte</span></a></li>
+		  	</ul>
+		</div>
+		<a href="zachernoemi_portfolio.php" name="text" id="kezdooldal"> Kezdő oldal</a>
+			<span class="portfolio"> portfólió </span>
+		
+	</div>
+
+	<div class="tajfutasrol">
+		<h1>A tájfutásról...</h1>
+		<p class="szoveg">Bár a tájfutás (hivatalos nevén tájékozódási futás) nem egy olimpiai sportág, mégis egy nagyon összetett és nehéz sport. A futóknak mind fizikailag, mind technikailag felkészültnek kell lenniük, hiszen egyszerre kell térképet olvasva tájékozódniuk és minél gyorsabban teljesíteniük az adott pályát. A profi élversenyző sportolók mögött sok évnyi tapasztalat, gyakorlás és kemény fizikai felkészülés áll.</p>
+		<p class="szoveg">A legszebb benne mégis, hogy nem kell élversenyzőnek ,fittnek és felkészültnek lennünk, vagy versenygenünk másokkal, elég ha csak élvezzük a természetben töltött időt, a társaságot és a kihívást. A tájfutás szlogenje így szól: "A tájfutás családi zöld sport". Nagyon sokan járnak a hétvégi versenyekre családostul, a legtöbbüknek ez jelenti a kikapcsolódást, hasonlóan az idősebbekhez is, akik mind azt bizonyítják, hogy ők is képessek teljesíteni egy-egy hétvégi verseny alkalmával a számukra kiírt feladatot.</p>
+		<h2 class="szoveg">De mi is az a tájfutás?</h2>
+		<p class="szoveg">A versenyzőknek térkép és tájoló (iránytű) segítségével kell a térképen feltüntetett ellenőrzőpontokkal kijelölt pályán, a pontokat többnyire előírt sorrendben érintve, a legrövidebb idő alatt végigfutniuk. A versenyzők maguk választja meg az útvonalaikat az ellenőrzőpontok között. Speciális tájfutótérképet használnak a tájékozódás során. Általában 1:15 000-es vagy 1:10 000-es, srinten 1:4000-es méretarányú részletes topográfiai térképek ezek, speciális nemzetközi jelkulccsal. A verseny során erre a térképre nyomtatják a pályát is, illetve a felkeresendő ellenőrző pontok számát.
+			<div class="row2">
+				<table class="table2">
+					<tr>
+						<td><img class="minta" src="kepek/tajolo.jpg" alt="Tájoló">
+							<div>
+		  					<p>Tájoló</p>
+		  					</div>
+	  					</td>
+						<td><img class=" minta zoom" src="kepek/vargesztes.jpg" alt="Erdei tájfutó térkép kitűzött pályával">
+							<div>
+		  					<p>Erdei tájfutó térkép</p>
+		  					</div>
+	  					</td>
+						<td><img class="minta zoom" src="kepek/jwoc_2018.jpg" alt="Sprint tájfutó térkép kitűzött pályával">
+							<div>
+		  					<p>Városi tájfutó térkép</p>
+		  					</div>
+	  					</td>
+						<td><img class="minta" src="kepek/dugoka.jpg" alt="Dugóka">
+							<div>
+		  					<p>Pontfogás dugókával</p>
+		  					</div>
+	  					</td>
+					</tr>
+				</table>
+			</div>
+		</p>
+		<p class="szoveg">
+		Alapvetően ez egy egyéni sport, ahol a feladatot a versenyzőknek egyénileg kell megoldaniuk. Az egyéni verseny lehet nappali és éjszakai is, azon belül pedig lehet rövidtáv, ami általában városban rendezett esemény vagy középtáv és hosszútáv, mellyek pedig leginkább erdei versenyszámok. Nagyon izgalmasak tudnak lenni a csapat versenyek is, ahol főleg három fős csapat összeállításokról beszélhetünk, de négy, illetve öt fősek is előfordulhatnak. Magyarországon ezek a csapatversenyek láteznek országos bajnoksági sznten is: váltó, pontbegyűjtő, csapat, sprint váltó illetve egyesületi váltó.
+		</p>
+		<h2 class="szoveg">Szakágai</h2>
+		<p class="szoveg">
+		Tájékozódási sportból több szakág is létezik. Ezek névszerint a tájfutáson kívül a tájkerékpár, a trail-o és a sítájfutás.
+		<div class="row2">
+			<table class="table2">
+				<tr>
+					<td><img class="minta" src="kepek/sitajfutas.jpg" alt="Sítájfutó">
+						<div class="container">
+	  					<p>Sítájutás</p>
+	  					</div>
+	  				</td>
+					<td><img class=" minta" src="kepek/trail-o.jpg" alt="Trail-ós">
+						<div class="container">
+	  					<p>Trail-o</p>
+	  					</div>
+	  				</td>
+					<td><img class="minta" src="kepek/tajkerekpar.jpg" alt="Tájkerékpározó">
+						<div class="container">
+	  					<p>Tájkerékpár</p>
+	  					</div>
+	  				</td>
+				</tr>
+			</table>
+		</div>
+		</p>
+		<p class="szoveg">Bővebben a magyar tájékozódási futószövetség oldalán tudsz informálódni: <a class="mtfsz" href="https://www.tajfutas.hu/mtfsz">www.mtfsz.hu</a>
+		</p>
+		<div>
+		<img class="foto" src="kepek/panorama1.jpg" alt="panoráma egy őszi tájról"><img class="foto" src="kepek/panorama1.jpg" alt="panoráma egy őszi tájról"><img class="foto" src="kepek/panorama1.jpg" alt="panoráma egy őszi tájról"><img class="foto" src="kepek/panorama1.jpg" alt="panoráma egy őszi tájról"><img class="foto" src="kepek/panorama1.jpg" alt="panoráma egy őszi tájról">
+		</div>
+	
+</body>
+</html>
