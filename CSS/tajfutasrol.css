@@ -1,0 +1,190 @@
+body{
+	font-size: 2vh;
+	font-family: 'Roboto', sans-serif;
+	background-image: radial-gradient(rgba(10, 50, 70, 1) , rgba(10, 50, 70, 0.7));
+	border-right: 10px solid rgba(245, 245, 245, 0.9);
+	border-left: 10px solid rgba(245, 245, 245, 0.9);	
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+*, *::before, *::after{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.teto{
+	background-color: black;
+	border-top: 10px solid rgba(245, 245, 245, 0.9);
+	border-bottom: 10px solid rgba(245, 245, 245, 0.9);
+	padding: 2rem; 
+	color: white;
+	font-variant: small-caps;
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+.cim{
+	text-align: left;
+	display: block;
+	font-size: 5vh;
+}
+
+.terkepek{
+	cursor: none;
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	display: block;
+}
+
+.terkepek:hover {
+  -ms-transform: scale(2);
+  -webkit-transform: scale(2);
+  transform: scale(2); 
+}
+
+.egesz{
+	margin: 0 auto;
+	padding-left: 190px;
+	padding-top: 20px;
+}
+
+.menu {
+	list-style-type: none;
+	background-image: radial-gradient(rgba(10, 50, 70, 1) , rgba(10, 50, 70, 0.9));
+	display: inline-flex;
+	flex-wrap: wrap;
+	margin-left: 90px;
+	border-left: 2px solid rgba(245, 245, 245, 0.9);
+	border-right: 2px solid rgba(245, 245, 245, 0.9);
+	float: none;
+}
+
+.menu a {
+	text-align: center;
+	padding: 10px;
+	color: white;
+	font-size: 4vh;
+	text-decoration: none;
+	display: block;
+	column-width: 120px;
+	cursor: pointer;
+}
+
+#ikon{
+	margin: 0 auto;
+	width: 50%;
+}
+
+
+.leiras{
+	font-size: 2vh;
+	display: block;
+}
+
+#ikon a:hover {
+	background-color: rgba(245, 245, 245, 0.8);
+	transition: .3s;
+}
+
+#kezdooldal{
+	display: block;
+	text-align: center;
+	font-size: 2vh;
+	cursor: pointer;
+	color: white;
+	text-decoration: none
+}
+
+
+.portfolio{
+	display: block;
+	text-align: right;
+	font-size: 50px;
+	color: white;
+}
+	
+.tajfutasrol{
+	color: white;
+	text-align: center;
+	font-size: 2vh;
+}
+
+.foto{
+	display: inline-block;
+	width: 20%;
+}
+
+.szoveg{
+	margin: 10px 83px;
+	text-align: left;
+}
+
+.table2{
+	display: inline-block;
+	margin: 0 auto;
+	 background-color: black;
+}
+
+.row2{
+	text-align: center;
+}
+
+.minta{
+	padding: 5px;
+	margin: 0 auto;
+	height: 360px;	
+	float: right;
+}
+
+.zoom{
+	cursor: none;
+}
+
+.zoom:hover {
+  -ms-transform: scale(2);
+  -webkit-transform: scale(2);
+  transform: scale(2); 
+}
+
+.mtfsz{
+	color: lightblue;
+}
+
+
+.doboz1{
+	width:33%;
+	float: left;
+}
+
+.doboz2{
+	width:33%;
+	float: left;
+}
+
+.doboz3{
+	width:22%;
+	float: left;
+}
+
+.box1{
+	width:50%;
+	float: left;
+}
+
+.box2{
+	width:50%;
+	float: left;
+}
+
+.box3{
+	width:50%;
+	float: left;
+}
+
+.box4{
+	width:50%;
+	float: left;
+}
